@@ -41,7 +41,7 @@ Key Features
 ###  Installation
 1. Cloner le dépôt :
    ```bash
-    git clone https://github.com/carmela0505/Projet_PHP.git
+    git clone https://github.com/carmela0505/Projet_JS.git
    cd CAVE4
 
 Ouvrir index.html dans un navigateur web.
@@ -56,7 +56,7 @@ Cave-a-Vin/
 ├── assets/          # Images, ressources
 └── README.md
    
-   git clone https://github.com/carmela0505/Cave-a-Vin.git
+   git clone https://github.com/carmela0505/Projet_JS.git
    cd Cave-a-Vin
 
 Carmela Urbano
